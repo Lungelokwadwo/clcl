@@ -1,0 +1,54 @@
+body{
+    background-color: snow;
+    border-radius: 3px solid wheat;
+}
+.secs{
+    border: 5px solid gray;
+    max-width: 700px;
+    margin: auto;
+    margin: 2%;
+    padding: 1%;
+    display:inline-flex;
+}
+img{
+    height: 100px;
+    height: 100px;
+}
+.price{
+    color: green;
+    font-size: 20px;
+}
+.addButton{
+    color: white;
+    background-color: gray;
+    border-color: grey;
+    font-size: 15px;
+}
+#view{
+    color: white;
+    background-color: darkslategray;
+    padding: 1%;
+    font-size: 15px;
+}
+.results{
+    border: 5px solid rgb(142, 157, 142);
+    max-width: 700px;
+    margin: auto;
+    margin: 2%;
+    padding: 1%;
+    display: inline-flex;
+    border-radius: 25%;
+}
+#cancel{
+    color: red;
+    background-color: white;
+    border-radius: 10%;
+    border-color: red;
+    font-size: 15px;
+}
+#note{
+    color: red;
+}
+h1{
+    background-color: rgb(142, 157, 142);
+}
